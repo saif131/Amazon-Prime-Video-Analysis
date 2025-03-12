@@ -37,6 +37,9 @@ The `amazon_prime_titles.csv` file contains the following headers:
 - `listed_in`: Genres or categories the content belongs to.
 - `description`: Brief description of the content.
 
+## Screenshot
+![Screenshot](https://github.com/saif131/Amazon-Prime-Video-Analysis/blob/main/Screenshot%20(284).png)
+
 ## Contributing
 Feel free to submit issues or pull requests if you have any improvements or suggestions.
 
